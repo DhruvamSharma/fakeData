@@ -2,12 +2,14 @@
   "products" : [
                 {
                   "name": "LevisJeans",
-                  "description": "Beautiful blue colored Jeans"
+                  "description": "Beautiful blue colored Jeans",
+                  "imageURL": "https://pbs.twimg.com/profile_images/839721704163155970/LI_TRk1z_400x400.jpg"
                 },
                 
                 {
                   "name": "StravisJeans",
-                  "description": "Beautiful red colored Jeans"
+                  "description": "Beautiful red colored Jeans",
+                  "imageURL": "https://pbs.twimg.com/profile_images/839721704163155970/LI_TRk1z_400x400.jpg"
                 }
                 ]
 }
